@@ -7,6 +7,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+/**
+ * Java Doc..
+ */
 public class MainActivity extends AppCompatActivity {
 
     int count = 0;
