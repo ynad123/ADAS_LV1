@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        System.out.println(">>>>>>> konsolenausgabe");
+        //System.out.println(">>>>>>> konsolenausgabe");
     }
 
     public void doBtClick() {
