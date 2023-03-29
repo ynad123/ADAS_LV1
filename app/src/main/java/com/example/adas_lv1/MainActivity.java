@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void doBtClick() {
-        //System.out.println(" >>>>> Click");
         count++;
         String countStr = String.valueOf(count);
         text1.setText(countStr);
